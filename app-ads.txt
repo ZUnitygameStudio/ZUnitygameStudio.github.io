@@ -1,0 +1,5 @@
+#admod
+google.com, pub-5080821719433134, DIRECT, f08c47fec0942fa0
+
+#applovin
+applovin.com, dc438225966f3ed9568d1ec959e38c99, DIRECT
