@@ -4,6 +4,9 @@ google.com, pub-5080821719433134, DIRECT, f08c47fec0942fa0
 #applovin
 applovin.com, dc438225966f3ed9568d1ec959e38c99, DIRECT
 
+#facebook
+facebook.com, 586054743357108, DIRECT, c3e20eee3f780d68
+
 #unity3d
 Xapads.com, 117219, RESELLER
 admixplay.com, 2012, RESELLER
